@@ -8,7 +8,7 @@ This repository contains a single-page website ideal for showcasing services, ca
 
 ## Preview
 
-![Homepage screenshot](Screenshot 2024-09-10 145742.png)
+![Homepage screenshot](https://raw.githubusercontent.com/BinaryVortex/Funnel-Business-Growth-Agency-Website/main/Screenshot%202024-09-10%20145742.png)
 
 *Screenshot of the site's homepage.*
 
